@@ -1,6 +1,6 @@
 # Apod-Nasa-Discord-Bot
 
-![Bot Logo](https://raw.githubusercontent.com/Yashirof/apod-nasa-discord-bot/master/assets/apod_logo.png)
+![Bot Logo](https://climate.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--60f7f8bb453a2fdf563b6ac7d29ed9a54394ed9a/astronaut_thumbs-up.gif)
 
 Um bot para Discord que exibe a "Astronomy Picture of the Day" (Foto Astronômica do Dia) fornecida pela NASA.
 
