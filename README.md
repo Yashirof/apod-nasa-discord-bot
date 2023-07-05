@@ -18,6 +18,17 @@ O bot é construído usando a linguagem de programação Python e a biblioteca d
 
 ## Configuração
 
+No [discord developers portal](https://discord.com/developers/applications) certifique-se de marcar na seção bot os Privileged Gateway Intents marque todos.
+
+
+
+Para adiquiri sua api da nasa basta responder o questionario no link https://api.nasa.gov/
+
+bot_token = 'token_discord_developer_portal'
+nasa_api_key = 'sua_api_nasa'
+channel_id = 48234723842424 (seu id do canal onde o bot vai mandar mensagem diariamente
+
+
 ## Uso
 
 - O bot exibe automaticamente a Foto Astronômica do Dia todos os dias em um canal específico do Discord.
