@@ -1,7 +1,7 @@
 # Apod-Nasa-Discord-Bot
 
 <div align="center">
-  <img src="https://images-ext-2.discordapp.net/external/SG7JtlfW5roYajbM3Ml_YIac-O1gBJkGeQKS4qJbwWM/https/media.tenor.com/iVHk9yUoOtcAAAPo/nasa-aircraft.mp4" alt="Hello world" align="center" width="200" height="200">
+  <img src="https://media.tenor.com/iVHk9yUoOtcAAAAC/nasa-aircraft.gif" alt="Hello world" align="center" width="200" height="200">
 </div>
 
 Um bot para Discord que exibe a "Astronomy Picture of the Day" (Foto Astronômica do Dia) fornecida pela NASA.
